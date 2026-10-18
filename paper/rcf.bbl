@@ -1,0 +1,288 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aggarwal et~al.(2001)Aggarwal, Hinneburg, and
+  Keim]{aggarwal2001surprising}
+Charu~C. Aggarwal, Alexander Hinneburg, and Daniel~A. Keim.
+\newblock On the surprising behavior of distance metrics in high dimensional
+  space.
+\newblock In \emph{Database Theory --- ICDT 2001}, volume 1973 of \emph{Lecture
+  Notes in Computer Science}, pages 420--434. Springer, 2001.
+
+\bibitem[Anderson and Schooler(1991)]{anderson1991reflections}
+John~R. Anderson and Lael~J. Schooler.
+\newblock Reflections of the environment in memory.
+\newblock \emph{Psychological Science}, 2\penalty0 (6):\penalty0 396--408,
+  1991.
+
+\bibitem[Anderson et~al.(2004)Anderson, Bothell, Byrne, Douglass, Lebiere, and
+  Qin]{anderson2004integrated}
+John~R. Anderson, Daniel Bothell, Michael~D. Byrne, Scott Douglass, Christian
+  Lebiere, and Yulin Qin.
+\newblock An integrated theory of the mind.
+\newblock \emph{Psychological Review}, 111\penalty0 (4):\penalty0 1036--1060,
+  2004.
+
+\bibitem[Beyer et~al.(1999)Beyer, Goldstein, Ramakrishnan, and
+  Shaft]{beyer1999nearest}
+Kevin Beyer, Jonathan Goldstein, Raghu Ramakrishnan, and Uri Shaft.
+\newblock When is ``nearest neighbor'' meaningful?
+\newblock In \emph{Database Theory --- ICDT '99}, volume 1540 of \emph{Lecture
+  Notes in Computer Science}, pages 217--235. Springer, 1999.
+
+\bibitem[Cano et~al.(2013)Cano, Zafra, and Ventura]{cano2013dgc}
+Alberto Cano, Amelia Zafra, and Sebasti{\'a}n Ventura.
+\newblock Weighted data gravitation classification for standard and imbalanced
+  data.
+\newblock \emph{IEEE Transactions on Cybernetics}, 43\penalty0 (6):\penalty0
+  1672--1687, 2013.
+
+\bibitem[Collins and Loftus(1975)]{collins1975spreading}
+Allan~M. Collins and Elizabeth~F. Loftus.
+\newblock A spreading-activation theory of semantic processing.
+\newblock \emph{Psychological Review}, 82\penalty0 (6):\penalty0 407--428,
+  1975.
+
+\bibitem[Crestani(1997)]{crestani1997spreading}
+Fabio Crestani.
+\newblock Application of spreading activation techniques in information
+  retrieval.
+\newblock \emph{Artificial Intelligence Review}, 11\penalty0 (6):\penalty0
+  453--482, 1997.
+\newblock \doi{10.1023/A:1006569829653}.
+
+\bibitem[de~Marneffe et~al.(2008)de~Marneffe, Rafferty, and
+  Manning]{demarneffe2008finding}
+Marie-Catherine de~Marneffe, Anna~N. Rafferty, and Christopher~D. Manning.
+\newblock Finding contradictions in text.
+\newblock In \emph{Proceedings of ACL-08: HLT}, pages 1039--1047, 2008.
+
+\bibitem[Ebbinghaus(1885)]{ebbinghaus1885}
+Hermann Ebbinghaus.
+\newblock \emph{{\"U}ber das Ged{\"a}chtnis: Untersuchungen zur experimentellen
+  Psychologie}.
+\newblock Duncker \& Humblot, Leipzig, 1885.
+
+\bibitem[G{\"a}rdenfors(2000)]{gardenfors2000conceptual}
+Peter G{\"a}rdenfors.
+\newblock \emph{Conceptual Spaces: The Geometry of Thought}.
+\newblock MIT Press, Cambridge, MA, 2000.
+
+\bibitem[Goldberger et~al.(2005)Goldberger, Roweis, Hinton, and
+  Salakhutdinov]{goldberger2005nca}
+Jacob Goldberger, Sam Roweis, Geoffrey Hinton, and Ruslan Salakhutdinov.
+\newblock Neighbourhood components analysis.
+\newblock In \emph{Advances in Neural Information Processing Systems 17}, 2005.
+
+\bibitem[Hintzman(1984)]{hintzman1984minerva}
+Douglas~L. Hintzman.
+\newblock {MINERVA} 2: A simulation model of human memory.
+\newblock \emph{Behavior Research Methods, Instruments, \& Computers},
+  16\penalty0 (2):\penalty0 96--101, 1984.
+
+\bibitem[Hintzman(1986)]{hintzman1986schema}
+Douglas~L. Hintzman.
+\newblock ``schema abstraction'' in a multiple-trace memory model.
+\newblock \emph{Psychological Review}, 93\penalty0 (4):\penalty0 411--428,
+  1986.
+
+\bibitem[Hou et~al.(2024)Hou, Tamoto, and Miyashita]{hou2024agent}
+Yuki Hou, Haruki Tamoto, and Homei Miyashita.
+\newblock ``my agent understands me better'': Integrating dynamic human-like
+  memory recall and consolidation in {LLM}-based agents.
+\newblock In \emph{Extended Abstracts of the 2024 CHI Conference on Human
+  Factors in Computing Systems (CHI EA '24)}, pages 1--7, 2024.
+\newblock \doi{10.1145/3613905.3650839}.
+\newblock arXiv:2404.00573.
+
+\bibitem[Karpukhin et~al.(2020)Karpukhin, O{\u{g}}uz, Min, Lewis, Wu, Edunov,
+  Chen, and Yih]{karpukhin2020dpr}
+Vladimir Karpukhin, Barlas O{\u{g}}uz, Sewon Min, Patrick Lewis, Ledell Wu,
+  Sergey Edunov, Danqi Chen, and Wen-tau Yih.
+\newblock Dense passage retrieval for open-domain question answering.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 6769--6781, 2020.
+
+\bibitem[Kraaij et~al.(2002)Kraaij, Westerveld, and
+  Hiemstra]{kraaij2002importance}
+Wessel Kraaij, Thijs Westerveld, and Djoerd Hiemstra.
+\newblock The importance of prior probabilities for entry page search.
+\newblock In \emph{Proceedings of the 25th Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval (SIGIR '02)},
+  pages 27--34. ACM, 2002.
+
+\bibitem[Krotov and Hopfield(2016)]{krotov2016dense}
+Dmitry Krotov and John~J. Hopfield.
+\newblock Dense associative memory for pattern recognition.
+\newblock In \emph{Advances in Neural Information Processing Systems 29}, 2016.
+
+\bibitem[Lewin(1936)]{lewin1936principles}
+Kurt Lewin.
+\newblock \emph{Principles of Topological Psychology}.
+\newblock McGraw-Hill, New York, 1936.
+
+\bibitem[Li and Croft(2003)]{li2003time}
+Xiaoyan Li and W.~Bruce Croft.
+\newblock Time-based language models.
+\newblock In \emph{Proceedings of the 12th International Conference on
+  Information and Knowledge Management (CIKM '03)}, pages 469--475. ACM, 2003.
+
+\bibitem[Liu(2009)]{liu2009ltr}
+Tie-Yan Liu.
+\newblock Learning to rank for information retrieval.
+\newblock \emph{Foundations and Trends in Information Retrieval}, 3\penalty0
+  (3):\penalty0 225--331, 2009.
+
+\bibitem[Nosofsky(1986)]{nosofsky1986attention}
+Robert~M. Nosofsky.
+\newblock Attention, similarity, and the identification--categorization
+  relationship.
+\newblock \emph{Journal of Experimental Psychology: General}, 115\penalty0
+  (1):\penalty0 39--57, 1986.
+
+\bibitem[Page et~al.(1999)Page, Brin, Motwani, and Winograd]{page1999pagerank}
+Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
+\newblock The {PageRank} citation ranking: Bringing order to the web.
+\newblock Technical Report 1999-66, Stanford InfoLab, 1999.
+
+\bibitem[Park et~al.(2023)Park, O'Brien, Cai, Morris, Liang, and
+  Bernstein]{park2023generative}
+Joon~Sung Park, Joseph~C. O'Brien, Carrie~J. Cai, Meredith~Ringel Morris, Percy
+  Liang, and Michael~S. Bernstein.
+\newblock Generative agents: Interactive simulacra of human behavior.
+\newblock In \emph{Proceedings of the 36th Annual ACM Symposium on User
+  Interface Software and Technology (UIST '23)}. ACM, 2023.
+\newblock arXiv:2304.03442.
+
+\bibitem[Peng et~al.(2005)Peng, Chen, Yang, and Chen]{peng2005gravitation}
+Lizhi Peng, Yuehui Chen, Bo~Yang, and Zhenxiang Chen.
+\newblock A novel classification method based on data gravitation.
+\newblock In \emph{Proceedings of the 2005 International Conference on Neural
+  Networks and Brain (ICNN\&B)}, volume~2, pages 667--672, 2005.
+\newblock \doi{10.1109/ICNNB.2005.1614719}.
+
+\bibitem[Peng et~al.(2009)Peng, Yang, Chen, and Abraham]{peng2009dgc}
+Lizhi Peng, Bo~Yang, Yuehui Chen, and Ajith Abraham.
+\newblock Data gravitation based classification.
+\newblock \emph{Information Sciences}, 179\penalty0 (6):\penalty0 809--819,
+  2009.
+\newblock \doi{10.1016/j.ins.2008.11.007}.
+
+\bibitem[Ramsauer et~al.(2021)Ramsauer, Sch{\"a}fl, Lehner, Seidl, Widrich,
+  Adler, Gruber, Holzleitner, Pavlovi{\'c}, Sandve, Greiff, Kreil, Kopp,
+  Klambauer, Brandstetter, and Hochreiter]{ramsauer2021hopfield}
+Hubert Ramsauer, Bernhard Sch{\"a}fl, Johannes Lehner, Philipp Seidl, Michael
+  Widrich, Thomas Adler, Lukas Gruber, Markus Holzleitner, Milena Pavlovi{\'c},
+  Geir~Kjetil Sandve, Victor Greiff, David Kreil, Michael Kopp, G{\"u}nter
+  Klambauer, Johannes Brandstetter, and Sepp Hochreiter.
+\newblock Hopfield networks is all you need.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2021.
+\newblock arXiv:2008.02217.
+
+\bibitem[Reimers and Gurevych(2019)]{reimers2019sbert}
+Nils Reimers and Iryna Gurevych.
+\newblock {Sentence-BERT}: Sentence embeddings using siamese {BERT}-networks.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 3982--3992, 2019.
+
+\bibitem[Robertson and Zaragoza(2009)]{robertson2009bm25}
+Stephen Robertson and Hugo Zaragoza.
+\newblock The probabilistic relevance framework: {BM25} and beyond.
+\newblock \emph{Foundations and Trends in Information Retrieval}, 3\penalty0
+  (4):\penalty0 333--389, 2009.
+
+\bibitem[Salha et~al.(2019)Salha, Limnios, Hennequin, Tran, and
+  Vazirgiannis]{salha2019gravity}
+Guillaume Salha, Stratis Limnios, Romain Hennequin, Viet-Anh Tran, and Michalis
+  Vazirgiannis.
+\newblock Gravity-inspired graph autoencoders for directed link prediction.
+\newblock In \emph{Proceedings of the 28th ACM International Conference on
+  Information and Knowledge Management (CIKM '19)}, pages 589--598, 2019.
+\newblock \doi{10.1145/3357384.3358023}.
+\newblock arXiv:1905.09570.
+
+\bibitem[Shepard(1968)]{shepard1968two}
+Donald Shepard.
+\newblock A two-dimensional interpolation function for irregularly-spaced data.
+\newblock In \emph{Proceedings of the 1968 23rd ACM National Conference}, pages
+  517--524. ACM, 1968.
+
+\bibitem[Shepard(1987)]{shepard1987universal}
+Roger~N. Shepard.
+\newblock Toward a universal law of generalization for psychological science.
+\newblock \emph{Science}, 237\penalty0 (4820):\penalty0 1317--1323, 1987.
+
+\bibitem[Shi et~al.(2005)Shi, Wen, Yu, Song, and Ma]{shi2005gravitation}
+Shuming Shi, Ji-Rong Wen, Qing Yu, Ruihua Song, and Wei-Ying Ma.
+\newblock Gravitation-based model for information retrieval.
+\newblock In \emph{Proceedings of the 28th Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval (SIGIR '05)},
+  pages 488--495. ACM, 2005.
+
+\bibitem[Thakur et~al.(2021)Thakur, Reimers, R{\"u}ckl{\'e}, Srivastava, and
+  Gurevych]{thakur2021beir}
+Nandan Thakur, Nils Reimers, Andreas R{\"u}ckl{\'e}, Abhishek Srivastava, and
+  Iryna Gurevych.
+\newblock {BEIR}: A heterogeneous benchmark for zero-shot evaluation of
+  information retrieval models.
+\newblock In \emph{Thirty-fifth Conference on Neural Information Processing
+  Systems, Datasets and Benchmarks Track}, 2021.
+\newblock arXiv:2104.08663.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In \emph{Advances in Neural Information Processing Systems 30}, 2017.
+
+\bibitem[Wachsmuth et~al.(2018)Wachsmuth, Syed, and
+  Stein]{wachsmuth2018retrieval}
+Henning Wachsmuth, Shahbaz Syed, and Benno Stein.
+\newblock Retrieval of the best counterargument without prior topic knowledge.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 241--251, 2018.
+
+\bibitem[Weinberger and Saul(2009)]{weinberger2009lmnn}
+Kilian~Q. Weinberger and Lawrence~K. Saul.
+\newblock Distance metric learning for large margin nearest neighbor
+  classification.
+\newblock \emph{Journal of Machine Learning Research}, 10:\penalty0 207--244,
+  2009.
+
+\bibitem[Weller et~al.(2024)Weller, Lawrie, and Van~Durme]{weller2024nevir}
+Orion Weller, Dawn Lawrie, and Benjamin Van~Durme.
+\newblock {NevIR}: Negation in neural information retrieval.
+\newblock In \emph{Proceedings of the 18th Conference of the European Chapter
+  of the Association for Computational Linguistics (EACL 2024), Volume 1: Long
+  Papers}, 2024.
+\newblock arXiv:2305.07614.
+
+\bibitem[Williams et~al.(2018)Williams, Nangia, and Bowman]{williams2018mnli}
+Adina Williams, Nikita Nangia, and Samuel~R. Bowman.
+\newblock A broad-coverage challenge corpus for sentence understanding through
+  inference.
+\newblock In \emph{Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long Papers)}, pages 1112--1122, 2018.
+
+\bibitem[Xing et~al.(2003)Xing, Ng, Jordan, and Russell]{xing2003distance}
+Eric~P. Xing, Andrew~Y. Ng, Michael~I. Jordan, and Stuart Russell.
+\newblock Distance metric learning with application to clustering with
+  side-information.
+\newblock In \emph{Advances in Neural Information Processing Systems 15}, 2003.
+
+\bibitem[Zhong et~al.(2024)Zhong, Guo, Gao, Ye, and Wang]{zhong2024memorybank}
+Wanjun Zhong, Lianghong Guo, Qiqi Gao, He~Ye, and Yanlin Wang.
+\newblock {MemoryBank}: Enhancing large language models with long-term memory.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~38, 2024.
+\newblock arXiv:2305.10250.
+
+\end{thebibliography}
