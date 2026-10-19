@@ -10,6 +10,10 @@ Intelligence is an active force in the universe. Information is a substance: in 
 
 This is my claim and my hypothesis. It is not proven here. What this repository does is narrower and exact: it formalises the hypothesis, and it computes and tests a separate static scoring model derived from that framing.
 
+## The operating-system claim
+
+A second, shorter document, `os-claim/` (the source `os-claim.tex`, the compiled `os-claim.pdf` and a Markdown version `README.md`), states my design for a standalone cognitive operating system booted from the field: the field is the whole state, booted by replaying its event log; understanding and answering need no language model; the owner's teaching is the only source of mass; a language model is at most a peripheral at teaching time. It is a dated public record of the design, with one use case realised as a software prototype that is not part of this repository. Direct execution on hardware is design only. Same licence.
+
 ## What is in this repository
 
 **Demonstrated.** A scoring model for the memory of an intelligent system, the Relativistic Cognitive Field. Each stored pattern has a position in an N-dimensional space, a rest mass that starts at a small ingestion floor and grows only through human validation (the library records the validation event it is told about; it does not authenticate a human), a valence towards the question that is negative for contradictions, and a decay that slows with mass. The question warps the metric of the space. The activation of a pattern is mass times valence, divided by the warped distance plus a smoothing constant, times the decay. The paper proves its elementary properties, in exact arithmetic and under the paper's stated assumptions: it is bounded; its logarithm is a sum of four classical retrieval signals; with the extra terms switched off (equal positive mass, equal valence, equal elapsed time, uniform metric, unit vectors) it ranks exactly as cosine similarity; and the smoothing constant is the exchange rate between mass and proximity. The reference implementation reproduces every number, table and figure of the paper's worked example, and its tests pass.
