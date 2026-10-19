@@ -9,7 +9,7 @@ Note: this is a local preparation note for the author, not part of the manuscrip
 **Primary Category:** physics.gen-ph (General Physics)
 **Cross-List Categories:** cs.AI (Artificial Intelligence), cs.IR (Information Retrieval)
 
-**Comments:** 19 pages, 1 figure, 6 tables (5 generated result tables and 1 design-input table). Theoretical physics and AI architecture paper with portable Python/NumPy reference implementation and reproducibility suite included in ancillary files (`anc/`).
+**Comments:** 19 pages, 1 figure, 6 tables (5 generated result tables and 1 design-input table). Theoretical physics and AI architecture paper with portable Python/NumPy reference implementation and reproducibility suite included in ancillary files (`anc/`), licensed under the GPLv3 (LICENSE file in the repository). Code and sources: https://github.com/balgurov/relativistic-cognitive-field
 
 **License:** To be selected by the author (Goce Balgurov) during the arXiv submission workflow (e.g., arXiv.org perpetual, non-exclusive license to distribute, or CC BY 4.0). Accompanying ancillary code in `anc/` is licensed under the GNU General Public License, version 3.
 
