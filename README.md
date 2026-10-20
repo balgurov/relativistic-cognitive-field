@@ -1,5 +1,7 @@
 # The Relativistic Cognitive Field (RCF)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23480726.svg)](https://doi.org/10.5281/zenodo.23480726)
+
 **Author:** Goce Balgurov
 **Status:** Concept paper and reference implementation, prepared for submission to arXiv (requested: physics.gen-ph primary, cs.AI and cs.IR cross-lists)
 **Licence:** GNU General Public License, version 3 (GPLv3), for the code and the text in this repository; the arXiv distribution licence is chosen at upload
