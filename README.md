@@ -16,9 +16,9 @@ This is my claim and my hypothesis. It is not proven here. What this repository 
 
 A second, shorter document, `os-claim/` (the source `os-claim.tex`, the compiled `os-claim.pdf` and a Markdown version `README.md`), states my design for a standalone cognitive operating system booted from the field: the field is the whole state, booted by replaying its event log; understanding and answering need no language model; the owner's teaching is the only source of mass; a language model is at most a peripheral at teaching time. It is a dated public record of the design, with one use case realised as a software prototype that is not part of this repository. Direct execution on hardware is design only. Same licence.
 
-## A separate derivative: Budgeted Node Activation
+## A separate derivative: Bounded Cognitive Potential
 
-[Budgeted Node Activation](models/bounded-activation/README.md), dated October 22, 2026, is a separate RCF-derived model at the algorithm-specification stage. It proposes nonnegative demands from mass and node-specific propagation parameters, then proportionally caps their total at a shared budget. The note proves the ceiling in exact arithmetic and states its limits: it does not establish convergence or physical energy conservation, and it has no implementation or measured results in this release. The original RCF scoring model and reference implementation are unchanged. Same GPLv3 licence.
+[Bounded Cognitive Potential](models/bounded-potential/README.md), dated October 22, 2026, is a separate RCF-derived model at the algorithm-specification stage. In this derivative, the author's hypothesis describes intelligence as a balancing force with potential; the algorithm specifies an allocation of that proposed potential, not a measure of intelligence itself. It derives nonnegative raw potentials from mass and node-specific propagation parameters, then proportionally caps their total at a shared budget. The note proves the ceiling in exact arithmetic and states its limits: it does not establish convergence or physical energy conservation, and it has no implementation or measured results in this release. The original RCF scoring model and reference implementation are unchanged. Same GPLv3 licence.
 
 ## What is in this repository
 
@@ -46,7 +46,7 @@ python examples/worked_example.py out
 - `paper/rcf.tex`, `paper/references.bib`, `paper/tables/`, `paper/figures/`: the manuscript and everything it needs to compile with `pdflatex`.
 - `anc/`: the reference implementation (`rcf/field.py`: the field, the activation, the exact candidate pre-selection, `touch` and `validate`, and the assessment-based labels), its tests (`tests/test_field.py`) and the reproduction script (`examples/worked_example.py`).
 - `arxiv_submission/arxiv_metadata.md`: the submission metadata, a preparation note, not an arXiv record.
-- `models/bounded-activation/README.md`: the separate derivative model's algorithm specification, assumptions, bound, and limitations (not part of the arXiv upload).
+- `models/bounded-potential/README.md`: the separate derivative model's algorithm specification, assumptions, bound, and limitations (not part of the arXiv upload).
 - `LICENSE`: the GNU General Public License, version 3.
 
 ## On how this was made
