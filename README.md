@@ -8,7 +8,7 @@
 
 ## The claim
 
-Intelligence is an active force in the universe. Information is a substance: in bytes a word is small, but in mass it can carry the pull of the whole base it belongs to. Cognitive structures exert gravity and perform work in an N-dimensional space, and the way thought organises itself there affects outcomes in the material world.
+Intelligence is a balancing force in the universe. Information is a substance: in bytes a word is small, but in mass it can carry the pull of the whole base it belongs to. Cognitive structures exert gravity and perform work in an N-dimensional space, and the way thought organises itself there affects outcomes in the material world.
 
 This is my claim and my hypothesis. It is not proven here. What this repository does is narrower and exact: it formalises the hypothesis, and it computes and tests a separate static scoring model derived from that framing.
 

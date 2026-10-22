@@ -8,11 +8,17 @@
 
 **Licence:** GNU General Public License, version 3 (GPLv3); see the repository's [LICENSE](../../LICENSE)
 
+## The premise
+
+> Intelligence is a balancing force in the universe.
+
+This is the author's central hypothesis. Intelligence has the potential to reorganize information and produce change.
+
 ## Purpose and relationship to the RCF
 
 This separate model specifies a global budget for nonnegative cognitive potential when nodes have different propagation parameters. It derives its mass-and-field framing from the [Relativistic Cognitive Field paper](../../paper/rcf.tex). It does not replace the published RCF model or change its reference implementation, examples, or results.
 
-In this derivative, the author describes intelligence as a balancing force, with the potential to reorganize information and produce change. This refines the terminology of his underlying hypothesis that information is a substance with an equivalence to energy, and cognitive structures exert gravity and perform work in an N-dimensional space. The rule below is a computational allocation proposal. Its mathematical bound does not establish that physical hypothesis or a physical energy equivalence.
+This derivative refines the terminology of the author's underlying hypothesis that information is a substance with an equivalence to energy, and cognitive structures exert gravity and perform work in an N-dimensional space. The rule below is a computational allocation proposal. Its mathematical bound does not establish that physical hypothesis or a physical energy equivalence.
 
 The terms have distinct roles here. **Intelligence** names the hypothesized balancing force. **Potential** names a capacity available to influence the field. **Activation** retains its technical meaning in the published RCF scoring model. The proposed potential quantities below neither measure intelligence itself nor specify how potential is expressed as action or how balancing occurs.
 
