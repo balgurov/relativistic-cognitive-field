@@ -7,6 +7,7 @@
 - `anc/`: `pyproject.toml`, `README.md`, `rcf/__init__.py`, `rcf/field.py`, `tests/test_field.py`, `examples/worked_example.py`
 - `arxiv_submission/arxiv_metadata.md` (a preparation note)
 - `os-claim/os-claim.tex`, `os-claim/os-claim.pdf`, `os-claim/README.md`: the operating-system claim paper (not part of the arXiv upload)
+- `models/bounded-activation/README.md`: Budgeted Node Activation, a separate RCF-derived model at the algorithm-specification stage, under GPLv3; no implementation or measured results (not part of the arXiv upload)
 
 ## arXiv source upload (one archive, compiled by arXiv with pdflatex)
 
