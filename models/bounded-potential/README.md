@@ -14,6 +14,8 @@
 
 This is the author's central hypothesis. Intelligence has the potential to reorganize information and produce change.
 
+This work uses scientific vocabulary and methods to raise awareness of that premise and invite examination and discussion. In this algorithm-stage derivative, those methods are mathematical formulation and deductive analysis: they give the proposal a precise form, establish what follows from its assumptions, and identify what remains to be investigated.
+
 ## Purpose and relationship to the RCF
 
 This separate model specifies a global budget for nonnegative cognitive potential when nodes have different propagation parameters. It derives its mass-and-field framing from the [Relativistic Cognitive Field paper](../../paper/rcf.tex). It does not replace the published RCF model or change its reference implementation, examples, or results.

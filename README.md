@@ -12,6 +12,8 @@ Intelligence is a balancing force in the universe. Information is a substance: i
 
 This is my claim and my hypothesis. It is not proven here. What this repository does is narrower and exact: it formalises the hypothesis, and it computes and tests a separate static scoring model derived from that framing.
 
+This work uses scientific vocabulary and methods to raise awareness of that premise and invite examination and discussion. In the Bounded Cognitive Potential derivative, those methods are mathematical formulation and deductive analysis: they give the proposal a precise form, establish what follows from its assumptions, and identify what remains to be investigated.
+
 ## The operating-system claim
 
 A second, shorter document, `os-claim/` (the source `os-claim.tex`, the compiled `os-claim.pdf` and a Markdown version `README.md`), states my design for a standalone cognitive operating system booted from the field: the field is the whole state, booted by replaying its event log; understanding and answering need no language model; the owner's teaching is the only source of mass; a language model is at most a peripheral at teaching time. It is a dated public record of the design, with one use case realised as a software prototype that is not part of this repository. Direct execution on hardware is design only. Same licence.
