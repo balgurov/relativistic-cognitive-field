@@ -115,6 +115,8 @@ The output is dimensionless. For $n=|A|$ nonnegative raw potentials, its total i
 
 **A mathematical ceiling is not numerical-overflow protection.** Even finite floating-point inputs can overflow while forming $c_i^2$, $m_i c_i^2$, their sum, or a normalization ratio. A future implementation must use suitable scaled or logarithmic arithmetic, handle zeros explicitly, validate intermediate and final values, and test rounding and underflow as well as overflow. The equations alone do not provide those guarantees.
 
+**Relation to propagation.** The author's design applies this rule to the potential that propagation along relations adds for one question, with the budget taken from the question itself rather than supplied as a free parameter. This is a design statement, not a measured result.
+
 ## Development status
 
 This publication contains an algorithm specification and its elementary exact-arithmetic bound. It includes no implementation of this derivative, benchmark, measured throughput, hardware result, or test of physical energy equivalence. No claim of novelty is made for proportional budget scaling itself.

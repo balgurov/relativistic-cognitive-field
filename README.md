@@ -28,6 +28,8 @@ A second, shorter document, `os-claim/` (the source `os-claim.tex`, the compiled
 
 **Design, not yet implemented.** The dynamic field: mass computed by the system itself as the pull of the whole base on a pattern, patterns that move when a question or a teaching enters, a fraction of every move that stays, and a balance that keeps the field from collapsing or expanding. Its candidate equations, the conditions they need, and a six-item example of its mass equation are in the paper's design appendix. The hardware execution engines are also design.
 
+*Update, October 26, 2026.* The balance named above now has a specified form in the author's private design notes, and a first implementation of it exists in his prototype and is under measurement. The form, its engine and the measurements are not published here; nothing about its behaviour or performance is claimed.
+
 **Not claimed.** No empirical superiority over existing retrieval methods. The paper lists the retrieval experiments that would falsify the computational hypothesis, and they have not been run; a discriminating test of the physical claim is not yet specified.
 
 ## How to reproduce
